@@ -69,7 +69,6 @@
 		</Item>
 	</Item>
 	<Item Name="Commands" Type="Folder"/>
-	<Item Name="Execute Commands" Type="Folder"/>
 	<Item Name="Methods" Type="Folder">
 		<Item Name="Close Connection.vi" Type="VI" URL="../Close Connection.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%B!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$*!=!!?!!!8&amp;6.F=GFB&lt;#"E:8:J9W5O&lt;(:D&lt;'&amp;T=Q!25W6S;7&amp;M)'2F&gt;GFD:3"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!S1(!!(A!!&amp;R64:8*J97QA:'6W;7.F,GRW9WRB=X-!%&amp;.F=GFB&lt;#"E:8:J9W5A;7Y!!&amp;1!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!1!"!!(!Q!!?!!!$1A!!!!!!!!!!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!!!!!#1!!!!!!%!#!!!!!!</Property>
