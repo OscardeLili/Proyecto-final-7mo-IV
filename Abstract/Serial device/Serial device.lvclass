@@ -1,5 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <LVClass LVVersion="20008000">
+	<Property Name="NI.Lib.Description" Type="Str">Es la clase papá de la que heredan los hijos que son las implementaciones</Property>
+	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*,!!!*Q(C=\&gt;5RDN.1%-&lt;R$Y1FWNQ!J5#CHB.%]B6SB&gt;E;#=HNUE!K_LE!%GEY1+YQ6]A6=A8T@]`D*15C+]%+CL7:E(T0&lt;^Y0_]F)`8ANP&gt;*][RB_?TROP,6:;ZC8&gt;0YZPFSTV0S,]?8X0+TTVY_L^?@L_:V^X8_&gt;OYY01VE?[@_4]2O(HI`HY^]?^T=X[:0PW2&gt;K,S)KK;#=-L7FZC20]C20]C20]C!0]C!0]C!0=C&gt;X=C&gt;X=C&gt;X=C-X=C-X=C-X]H[3CVTE)I?5,*YMF$2.'C181V(SE8A34_**00R5YEE]C3@R*"YO5?**0)EH]31?JCHR**\%EXA3$[W[*0N*DC@RU&amp;["*`!%HM!4?&amp;B3A3=!")M&amp;D9-G-"1-"F]#4_!*0(R6Y!E]A3@Q""['&amp;8A#4_!*0)'(+@WO2.?UERQ0&lt;?2Y()`D=4S/B^:S0)\(]4A?R].S=DS/RU%Y#TL.)=C:Z&amp;TA`(!]DI?`Z(A=D_.R0)[(I@[%P._:JGEH/2\$9XA-D_%R0,31Y4%]BM@Q'"\;SP!9(M.D?!Q03]HQ'"\$9U#-26F?2D.DIH'2%2A?`P4&gt;9PUJ2:&gt;90[8;P+J.K&gt;JMKEWEWBSKB[Z[G+K(J,LZKJOKOFGKG[$[R[H1+IRK%&gt;8E&gt;K%O@*[J%X7E$N2%\;G2WF+&lt;.P5P8XCZ8(1_HX5[H81](H5Y($2.E`&lt;\P=:RV(;\V7;T?8A.P/&amp;]?#%M\[6\PL@[0,X&gt;(=;POU^X\X9@R__\,R__P6`(7DX2`[8`Q&lt;N2,X8&gt;FXPU!Y9W;&amp;]!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.1</Property>

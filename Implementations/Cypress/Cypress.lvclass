@@ -1,5 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <LVClass LVVersion="20008000">
+	<Property Name="NI.Lib.Description" Type="Str">Clase hija donde se implementaron los overrides del papá adecuados al micro de Cypress</Property>
+	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*5!!!*Q(C=\:5`4FN"%)&gt;`2#F#[2M18W&amp;OA&amp;R2*96,WLE!B6UC+N&gt;)3"EJ*`!6@)!U)X%#.UC)TF&gt;QPNUXG(]3,AAC"&lt;NPVPN_OT0TP&gt;X67OLFG`26WXVF`GL:0^ZG&lt;&amp;PNH2@.`?C]/E04L&lt;].]:^ZT8@.Y&amp;`0`-&amp;`&amp;W,YAK@DWQ?;NX`@`O^`N?CT@*;0,?&gt;\$_G\H^E$N9M)3SQQRUQNV4&lt;2%TX2%TX2%TX1!TX1!TX1!^X2(&gt;X2(&gt;X2(&gt;X1$&gt;X1$&gt;X1$&lt;V8&gt;+%,8?AA*=G42%H1*%!S'21F4=+4]#1]#1_P3HA3HI1HY5FYG++%*_&amp;*?"+?B!=X*4Q*4]+4]#1]B/IEW3M[0!E0Y28Q"$Q"4]!4]*"3!5]!%#1,!A&gt;"Q&amp;!Q'(1#HI!HY+'LA#@A#8A#HI#(915]!5`!%`!%0,DU69F/USI[0)32Q_0Q/$Q/D].$;$E]$I`$Y`!Y0+34Q_0Q/""/1C=Y#(+=H!H/C]0D]0!DB]@B=8A=(I?(I&lt;Z$XF?GU&lt;3+$I`"9`!90!;0Q5-)'4Q'D]&amp;D]"A]B*8"9`!90!;0Q5-K'4Q'D]&amp;DA"B*33]DG/&amp;I4$)%AY?HHR&lt;LOR3&gt;R(K6[P#K$K8KM+E/E?JQK$:&gt;N:GK46)NPGJ269OF7A46R[GA64#K*#LH.F%&lt;WD7WQJ&lt;9!JNB5WS#D&lt;&amp;2=`X(%T?&lt;D&gt;&lt;LN6;LF:&lt;,J2;,B7;TG;&lt;4K3;4C=&lt;DM5;DU?Y;/+,O,I4B8DKHX_TW\0@&gt;V=H0QYOT8X]ODX^]PTE_P&lt;Y@;`:/`[8`Q&gt;WI,XI=FT8[#]-&lt;WWE!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.1</Property>
