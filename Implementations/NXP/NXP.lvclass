@@ -1,5 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <LVClass LVVersion="20008000">
+	<Property Name="NI.Lib.Description" Type="Str">Clase hija donde se implementaron los overrides del papá adecuados al micro de NXP</Property>
+	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)3!!!*Q(C=\&gt;3^=6J"')8B)Y]$J84AI954+[-&amp;7PB;)(6)#V],N%!,JQ6;I)8L^[\8%I&amp;E0"J\L%#\,)+T@Y`W\C#.]CB^V8+P00WW`(H`MLZ'P:VTU\`][B^D8ZG``/RZ;`\4S`TX^.`TP\@`4N&amp;H_3T`NXS`?UH`_:V^U0J$2!ON;57TVKW7E)=]Z#%0?=C&lt;P-G&lt;P-G&lt;P-G,P-C,P-C,P-B.&lt;H+4G^TE*B_68/1C&amp;TGEM(H9+#Q;&amp;AC$I3C]"5`Q"%`Q]&amp;8"%TT"%TT"QR!&amp;4`!%4`!%$^-50-%40-%40#QV*"G6(%`QM,Q;4_.J0)WH]&lt;#F'E]$;$:L&amp;GY7A;'GM`H1?"J0Y_'D'E`D;4S.J`(1L=&lt;4?"J0YWE]4"GHUE/T6H)],+0#5XA+4_%J0#SNQF.Y#E`B+4RMJ]*4?!J%M7'R/!16EYI"R:@#5XDYI]*4?!J0Y3E]&gt;)UH6/.E6MV;S@%9D`%9D`%9$UP)?)T(?)T(?&amp;B7RG-]RG-]RM.7-B\D-2Y$-:OSP=RC:K)::!,DY46OC]&gt;4[C(RK.+]P*K85P/S;6YCT=OB_&gt;!V([&lt;G1^)]@-V$V4QMT501`/=UU:I9T5UU*[]$&gt;?8^1DP44L1D\5$&lt;UX;U,7WT4PX,![`8KS[8C]\HMU[HEY\(IQ[(A`&lt;\P8;\H&lt;&lt;&lt;L4;&lt;T@00Q$@K]Q`#2`B&gt;_B#',\J&gt;FT0[!3+"J_!!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.1</Property>
